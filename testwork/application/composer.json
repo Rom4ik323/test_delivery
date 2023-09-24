@@ -1,0 +1,15 @@
+{
+  "prefer-stable": true,
+  "require": {
+    "nesbot/carbon": "^2.61"
+  },
+  "require-dev": {
+    "larapack/dd": "1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+
+}
